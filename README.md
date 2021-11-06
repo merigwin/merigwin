@@ -1,7 +1,5 @@
 ### Olá a todos, eu sou a Thais Emanuelle  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
-
 
 ## Eu sou formada em Eletrônica, formanda em Engenharia de Controle e Automação e estou em treinamento para me tornar uma Desenvolvedora!
 - 🌱 Atualmente estudando JavaScript, React.js e TypeScript
@@ -21,8 +19,6 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 
-<br />
-<br />
 ---
 
 <details>
