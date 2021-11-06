@@ -1,7 +1,7 @@
 ### Olá a todos, eu sou a Thais Emanuelle  👋
 
 
-## Eu sou formada em Eletrônica, formanda em Engenharia de Controle e Automação e estou em treinamento para me tornar uma Desenvolvedora!
+## Estou em treinamento para me tornar uma Desenvolvedora!
 - 🌱 Atualmente estudando JavaScript, React.js e TypeScript
 - 💬 Sou aberta a qualquer conversa desde que haja respeito
 - 😄 Meus pronomes são: ela/dela mas não me importo se usar diferentes ao tratar comigo
