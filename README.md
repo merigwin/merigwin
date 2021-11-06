@@ -5,7 +5,7 @@
 - 🌱 Atualmente estudando JavaScript, React.js e TypeScript
 - 💬 Sou aberta a qualquer conversa desde que haja respeito
 - 😄 Meus pronomes são: ela/dela mas não me importo se usar diferentes ao tratar comigo
-- ⚡ Um fato sobre mim é que o meu interesse por programar surgiu por conta de vídeo games
+- ⚡ Meu interesse por programar surgiu por conta de vídeo games
 
 
 ### Fale comigo:
