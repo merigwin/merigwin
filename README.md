@@ -16,8 +16,8 @@
 ### Linguagens e Ferramentas:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML" width="26px" src="https://icons8.com.br/icon/20909/html-5" />
-<img align="left" alt="CSS" width="26px" src="https://icons8.com.br/icon/7gdY5qNXaKC0/css3" />
+<img align="left" alt="HTML" width="26px" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" />
+<img align="left" alt="CSS" width="26px" src="https://logospng.org/download/css-3/logo-css-3-1536.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
